@@ -1,7 +1,7 @@
 # A place to begin
 
-An NTG Consulting assessment and guided-demonstration prototype.
+[Public lead form](https://ntg-ai-opportunity.noah-023.workers.dev/) · [Friends: name only](https://ntg-ai-opportunity.noah-023.workers.dev/friends)
 
-Find a possible use of AI in nonprofit work, creative practice, or a personal project, then explore it through a prepared demonstration. No account is required. Answers remain in the browser tab unless downloaded. No AI service is connected to this prototype.
+Describe something you want to do, see a preview of how AI could help, and send it to NTG for review. The public form collects an email; the friends form collects only a name and queues a notification for Noah. Booking a conversation is optional after submission.
 
-[Open the interactive preview](https://ntg-ai-opportunity.noah-023.workers.dev)
+This repository contains the frontend only. The live server receives submissions into a private database. Previews use authored topic recipes, not live AI generation. No participant information or server credentials are in this repository.
